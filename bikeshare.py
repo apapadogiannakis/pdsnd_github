@@ -31,6 +31,7 @@ def city_input():
     print('Chicago: 1')
     print('New York: 2')
     print('Washington: 3')
+    print('Los Angelas: 4')
     print(' ')
     city = input('Please choose the city for which you would like to see the Statistics: ')
     city = city.lower()
