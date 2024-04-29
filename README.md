@@ -8,6 +8,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+Project is for github project submission
 
 ### Files used
 Include the files used
